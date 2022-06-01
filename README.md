@@ -8,4 +8,4 @@
     El informe generado en base a la consulta en BBDD se genera en la misma ubicación donde se ejecuta el programa.
 
 ### Dependencias
-    Para este proyecto se ha incluido la dependencia de JDBC para la conexión con la BBDD
+    Para este proyecto se ha incluido la dependencia de MySQL Connector para la conexión con la BBDD de MySQL en local
